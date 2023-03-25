@@ -20,4 +20,4 @@ Example
     </a>
 </p>
 
-<a href="[a](https://github.com/h4pZ/rose-pine-matplotlib)">
+<p>LINK<a href="https://github.com/h4pZ/rose-pine-matplotlib"></p>
